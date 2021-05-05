@@ -302,10 +302,10 @@ SK임직원 전용 복지몰 가전제품 e-커머스 서비스 ‘이패밀지�
 ```
 PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하는 것이 주 목적입니다. 프로젝트 팀원으로 개발하였습니다.
 ````
-
-- PHP Model1 방식의 레서시 코드 분석
-- 30여개 어드민 페이지 화면을 PHP CodeIgniter code 가이드라인에 맞춰 CRUD 개발
-- UI 가이드라인에 맞춰 BootStrap CSS 태그 적용 및 jQuery Front-end 개발
+- **PHP CodeIgniter MVC 컨버팅 작업**
+   * PHP Model1 방식의 레서시 코드 분석
+   * 30여개 어드민 페이지 화면을 PHP CodeIgniter code 가이드라인에 맞춰 CRUD 개발
+   * UI 가이드라인에 맞춰 BootStrap CSS 태그 적용 및 jQuery Front-end 개발
 
 - **Tech** : PHP, CodeIgniter, jQuery, BootStrap, CSS
 
@@ -316,11 +316,10 @@ PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하
 일정 비율 규격 이미지 리사이징 모듈만 사용해야 하는 상황에서 현업 불편함을 해소하고자 자체 사내 이미지 리사이징 모듈을 개발하였습니다.  
 다양한 비율과 높이/넓이로 이미지 리사이징 할 수 있는 플랫폼을 제공하는 것이 주목적입니다.
 ```
-
-- 이미지리사이즈 오픈소스 라이브러리를 활용하여 java Spring Rest API 개발
-- 이미지URL 및 File DB 경로 를 확인하여  java File 및 InputStream 으로 읽어들임
-- 리사이징 오픈소스 라이브러리를 활용하여 포커스 위치 선정과 비율과 넓이/높이 등 다양한 기능 개발
-- 캐시성 NoSQL Redis에 적재하며, 앨범/플레이리스트ID와 입력값을 조합한 Key로 사용하여 Redis에 이미지 파일이 있을 경우 바로 조회 기능 개발
+- **이미지 리사이징 API 개발**
+   * 이미지URL 및 File DB 경로 를 확인하여  java File 및 ImageBuffer 입출력
+   * 리사이징 오픈소스 라이브러리를 활용하여 포커스 위치 선정과 비율과 넓이/높이 등 다양한 기능 개발
+   * 캐시성 NoSQL Redis에 적재하며, 앨범/플레이리스트ID와 입력값을 조합한 Key로 사용하여 Redis에 이미지 파일이 있을 경우 바로 조회 기능 개발
 
 - **Tech** : Java1.7, Spring4.0, Redis, MySQL
 
@@ -332,10 +331,11 @@ PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하
 이벤트 페이지 퍼블리싱 및 API 개발을 자동화하는 것이 주목적입니다.     
 ```
 
-- 이벤트 정보 및 상세 페이지 MySQL DB설계
-- PHP CodeIgniter기반의 이벤트 정보 및 상세 페이지 삭제/등록/조회 REST API 개발
-- BackBoneJS기반의 유형별 이벤트 View 모듈 개발
-- 유형별 이벤트를 등록할 수 있도록 PHP CodeIgniter&BootStrap&JQuery를 활용하여 개발 
+- **Magazine이벤트 자동화 개발**
+   * 이벤트 정보 및 상세 페이지 MySQL DB설계
+   * PHP CodeIgniter기반의 이벤트 정보 및 상세 페이지 삭제/등록/조회 REST API 개발
+   * BackBoneJS기반의 유형별 이벤트 View 모듈 개발
+   * 유형별 이벤트를 등록할 수 있도록 PHP CodeIgniter&BootStrap&JQuery를 활용하여 개발 
 
 - **Tech** : PHP, CodeIgniter, BackBoneJS, BootStrap, jQuery, MySQL, Redis
 
