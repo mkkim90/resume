@@ -358,7 +358,8 @@ PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하
 
    - 마이하트팀 약물복용도우미-빅데이터 기반의 처방 스케줄링 서비스
    - 시상내역 : 최우수상(청년위원장상-장관급)
-   - 헬스케어이노베이션 2016 포럼 발표 https://biz.chosun.com/site/data/html_dir/2016/11/03/2016110301550.html 
+   - 헬스케어이노베이션 2016 포럼 발표 
+   - https://biz.chosun.com/site/data/html_dir/2016/11/03/2016110301550.html 
    - 의료공공데이터, Google Vision 오픈 API 연동, AWS EC2, S3 구축,  Java Spring 전자정부프레임워크, AngularJS 기반 IONiC 하이브리드웹
 
 ### KOSTA 개발자 양성 실무 프로젝트(2015.5~2015,7)
