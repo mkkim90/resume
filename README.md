@@ -1,4 +1,4 @@
-# resume
+
 
 ## ABOUT ME
 
@@ -38,7 +38,6 @@
 ### Etc
 - Git, Subversion, Jenkins, Jira, Confluence
 
-***
 
 ## Experience & Project
 
