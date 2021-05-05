@@ -1,3 +1,12 @@
+# 김민균 MinKyun Kim RESUME
+
+:telephone_receiver: 010-2334-9654
+
+:email: mkzzang0928@gmail.com
+
+:ledger: https://blog.nvaer.com/mkzzang0928
+
+:computer: https://github.com/mkkim90
 
 
 ## ABOUT ME
