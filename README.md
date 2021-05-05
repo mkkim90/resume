@@ -69,7 +69,7 @@
    * Java Tmax library를 통해 변액보험 적합성 진단 설문 정보 데이터를 XML 데이터로 변환하여 기간계 서버에 등록 요청 API 개발
    * Java Tmax library를 통해 변액보험 적합성 진단 결과 XML 데이터를 문자열로 변환하여 진단 결과 유형 코드를 Oracle DB에 적재
    * MyBatis를 이용해 변액보험 적합성 진단 DB 질의를 조회하여 결과를 응답하는 JSON 포맷의 REST API 개발
-   * 적합성 진단 전자 문서의 입력 항목을 EnumaEnum 클래스로 관리하며 전자문서의 규격 XML 포맷의 REST API 개발 
+   * 적합성 진단 전자 문서의 입력 항목을 Enum클래스로 관리하며 전자문서의 규격 XML 포맷의 REST API 개발 
 
 - **Tech** : Java1.7, Spring3.5, Oracle, MyBatis, Junit4
 
