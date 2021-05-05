@@ -74,7 +74,6 @@ NICE 인증 모듈의 영향도를 분석하고 개발 범위를 산정하며, �
    * 신용카드사 코드 및 인증 결과코드 Enum Class로 관리
    * License Key 암호화하여 서버별 properties 파일 관리
    * KCB 신용정보 인증 모듈 객체를 조합(Composition)한 싱글톤 패턴의 Util 클래스로 인증 요청/결과 응답처리 및 인증 이력 DB 적재
-   * KCB신용정보 인증 모듈 객체를 조합(Composition)한 싱글톤 패턴의 Util 클래스로 인증 요청/결과 응답처리 및 인증이력 DB 적재
    
 - **Tech** : Java1.7, Spring3.5, Oracle, MyBatis, Junit4
 
