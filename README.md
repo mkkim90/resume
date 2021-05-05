@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-안녕하세요. Java & Spring기반의 6년차 백엔드 개발자로,  **금융 가입설계/청약과 제휴 마켓팅 서비스 분야에서 API/Batch를 주로 개발해왔습니다.**</br>
+안녕하세요. Java & Spring 기반의 6년차 백엔드 개발자로,  **금융 가입설계/청약과 제휴 마케팅 서비스 분야에서 API/Batch를 주로 개발해왔습니다.**</br>
 레거시 코드를 분석하여 점진적으로 리팩토링하는 것을 좋아하며, 코드 리뷰와 단위테스트를 통해 실수를 예방하고 안정적인 완성도를 높이는 것을 중요시합니다.</br>
 재사용성 및 유지보수용이한 코드를 지향하며, 좋은 코드에 대한 고민을 많이 하는 편입니다.    
 
@@ -15,7 +15,7 @@
     * NICE결제, KCB신용인증, KaKaoPay인증, SSO로그인, RSA-OTP 로그인, 보안키패드, 전자문서, MDM, 콜장비 등 다양한 모듈 및 오픈소스 라이브러리 연동 경험
 
 - **레거시 코드 분석 및 리팩토링**  
-    * PHP model1 방식 -> PHP CodeIgniter MVC / Java PlayFramework1.0 REST API -> Java SpringFramework4.0 REST API / JSP Model1방식 -> Java Spring MVC 컨버팅 작업
+    * PHP model1 방식 -> PHP CodeIgniter MVC, Java PlayFramework1.0 REST API -> Java SpringFramework4.0 REST API / JSP Model1방식 -> Java Spring MVC 컨버팅 작업
     * 차세대 프로젝트 개발 경험
   
 주도적으로 문제를 해결 및 자체 개선해왔으며, 솔선수범하고 긍정적인 자세로 임하고 있습니다.</br> 
