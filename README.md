@@ -16,7 +16,7 @@
       라이브러리 연동 경험
 
 - **레거시 코드 분석 및 리팩토링**  
-    * PHP model1 방식 → PHP CodeIgniter MVC, Java PlayFramework1.0 REST API → Java SpringFramework4.0 REST API</br>  
+    * PHP model1 방식 → PHP CodeIgniter MVC, Java PlayFramework1.0 REST API → Java SpringFramework4.0 REST API</br>
       , JSP Model1방식→Java Spring MVC 컨버팅 작업 및 차세대 프로젝트 개발 경험
   
 주도적으로 문제를 해결 및 자체 개선해왔으며, 솔선수범하고 긍정적인 자세로 임하고 있습니다.</br> 
