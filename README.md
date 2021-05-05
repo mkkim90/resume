@@ -25,7 +25,7 @@
     * NICE결제, KCB신용인증, KaKaoPay인증, SSO로그인, RSA-OTP 로그인, 보안키패드, 전자문서, MDM, 콜장비 등 모듈 및 오픈소스 라이브러리 연동 경험
 
 - **레거시 코드 분석 및 리팩토링**  
-    * PHP model1 방식 → PHP CodeIgniter MVC, Java PlayFramework1.0 REST API → Java SpringFramework4.0 REST API</br>
+    * PHP model1 방식 → PHP CodeIgniter MVC, Java PlayFramework1.0 REST API → Java SpringFramework4.0 REST API,
       JSP Model1방식 → Java Spring MVC 컨버팅 작업 및 차세대 프로젝트 개발 경험
 
 
