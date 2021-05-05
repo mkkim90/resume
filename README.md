@@ -8,6 +8,7 @@
 
 :computer: https://github.com/mkkim90
 
+***
 
 ## ABOUT ME
 
@@ -348,7 +349,6 @@ PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하
 
 - **Tech** : PHP, CodeIgniter, BackBoneJS, BootStrap, jQuery, MySQL, Redis
 
-***
 
 ## 수상 & 외부 활동
 
@@ -388,7 +388,7 @@ PHP Model1 방식 레서시 코드를 PHP CodeIgniter MVC 기반으로 개편하
    - 시상내역 : 최우수상(총장상)
    - 척추비틀림 자이로센서를 이용해 자세 교정 제안
 
-***
+
 
 ## EDUCATION
 
@@ -414,7 +414,7 @@ Java프로그래밍과 OpenSource Framework 개발자 양성 6개월 과정
    - ICT학생회 기획국장 및 소프트웨어전공장 역임
    - 15년 학부봉사상(학장상) 수여 및 우수성적장학금 8회, 수석 4.5 졸업
 
-***
+
 
 ## License
 
