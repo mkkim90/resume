@@ -12,12 +12,11 @@
     * 보안취약점진단 및 금융감독원 감사 및 권고사항에 대한 조치 경험
 
 - **제휴사 솔루션 모듈 및 오픈소스 라이브리러리 연동 및 시스템 내재화**  
-    * NICE결제, KCB신용인증, KaKaoPay인증, SSO로그인, RSA-OTP 로그인, 보안키패드, 전자문서, MDM, 콜장비 등 다양한 모듈 및 오픈소스</br>
-      라이브러리 연동 경험
+    * NICE결제, KCB신용인증, KaKaoPay인증, SSO로그인, RSA-OTP 로그인, 보안키패드, 전자문서, MDM, 콜장비 등 모듈 및 오픈소스 라이브러리 연동 경험
 
 - **레거시 코드 분석 및 리팩토링**  
     * PHP model1 방식 → PHP CodeIgniter MVC, Java PlayFramework1.0 REST API → Java SpringFramework4.0 REST API</br>
-      , JSP Model1방식 → Java Spring MVC 컨버팅 작업 및 차세대 프로젝트 개발 경험
+      JSP Model1방식 → Java Spring MVC 컨버팅 작업 및 차세대 프로젝트 개발 경험
   
 주도적으로 문제를 해결 및 자체 개선해왔으며, 솔선수범하고 긍정적인 자세로 임하고 있습니다.</br> 
 사람이 우선인 공간 속에서 함께 성장하고 서로 머리를 맞대어 성과를 이뤄낼 수 있는 좋은 개발자가 되기위해 항상 최선을 다하겠습니다.  
